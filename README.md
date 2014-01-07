@@ -1,7 +1,7 @@
-mini-mogodb
+mini-mongodb
 ===========
 
-       模仿mogodb采用Xml+json实现小型数据库;
+       模仿mongodb采用Xml+json实现小型数据库;
         1.实现数据库创建
         2.表的创建
         3.表数据的增、删、改、查
