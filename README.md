@@ -18,7 +18,7 @@ mini-mogodb
 
 
 -----------------------------------
-* 作者：     张代浩
-* 技术论坛：[www.jeecg.org](http://www.jeecg.org)
-* 邮箱：  jeecg@sina.com
-* 交流群：325978980，143858350
+       * 作者：     张代浩
+       * 技术论坛：[www.jeecg.org](http://www.jeecg.org)
+       * 邮箱：  jeecg@sina.com
+       * 交流群：325978980，143858350
