@@ -16,6 +16,19 @@ mini-mongodb
        3、导入Gson包,提供解析json文件功能
        4、用XmlDAO类里的方法生成一个xml的数据库文件
        5、测试表数据的增、删、改、查功能
+       
+       
+       -----------------------------------
+       <?xml version="1.0" encoding="UTF-8"?>
+       <database>
+	<table name="test">
+		<data>{"sex":"男","age":20.0,"name":"lisan","money":2000.98,"_uuid":"a2b64d1a-63ea-4a1b-b1e3-67adcc687c0a"         }
+		</data>
+	</table>
+	<table name="system.indexs" />
+	<table name="system.users" />
+       </database>
+
 
 
 
