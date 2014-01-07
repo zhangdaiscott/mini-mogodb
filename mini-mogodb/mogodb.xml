@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<table name="test">
+		
+	</table>
+	<table name="system.indexs" />
+	<table name="system.users" />
+</database>
